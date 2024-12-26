@@ -1,0 +1,9 @@
+write react app in typescript, a chat bot using llamaindex and support ollama client and goole gemini api.
+and has a sidebar with options to select the model, temperature, and max tokens.
+with additional feature :
+1. rag using a pdf file and text file
+2. chat history.
+3. has remember function, that can remember the conversation for the next chat.
+4. has a feature to upload file and select the file type, text or pdf.
+5. has a feature to download the chat history as markdown file.
+6. Setting page to select the model ollama or google gemini, temperature, and max tokens.
